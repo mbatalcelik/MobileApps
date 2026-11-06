@@ -1,0 +1,9 @@
+{
+  "application": "BioCity",
+  "package": "com.biocity.game",
+  "versionName": "0.5.0-test",
+  "builtAt": "2026-11-06T20:09:01.503101+00:00",
+  "bytes": 70211676,
+  "sha256": "09c4190de65c4c3e6b2d66d569ea821c648f5bf368f2b2a06df52a2827843081",
+  "narrationClips": 82
+}

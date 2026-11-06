@@ -1,0 +1,10 @@
+# Signing keys and local configuration must never be published.
+*.jks
+*.keystore
+.env
+.env.*
+!.env.example
+node_modules/
+.gradle/
+local.properties
+*.log
